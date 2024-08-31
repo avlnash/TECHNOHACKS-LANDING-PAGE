@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AvinashTech Innovations</title>
+    <link rel="stylesheet" href="C:\Users\91938\OneDrive\Desktop\project1-landing page\styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>AvinashTech Innovations</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    
+    <section id="hero">
+        <div class="container">
+            <h2>Innovating Technology for a Brighter Future</h2>
+            <p>At AvinashTech Innovations, we bring your ideas to life with cutting-edge technology solutions.</p>
+            <a href="#contact" class="btn">Get Started</a>
+        </div>
+    </section>
+
+    
+    <section id="about" class="container">
+        <h2>About Us</h2>
+        <p>AvinashTech Innovations is a leader in providing innovative technology solutions that drive business success. Our team of experts is committed to delivering customized services that meet the unique needs of our clients.</p>
+    </section>
+    
+    
+    <section id="services" class="container">
+        <h2>Our Services</h2>
+        <div class="services-list">
+            <div class="service">
+                <h3>Software Development</h3>
+                <p>We develop tailor-made software solutions to help your business achieve its goals.</p>
+            </div>
+            <div class="service">
+                <h3>AI & Machine Learning</h3>
+                <p>Leverage AI and machine learning to gain insights and automate your operations.</p>
+            </div>
+            <div class="service">
+                <h3>Cybersecurity</h3>
+                <p>Protect your business with our advanced cybersecurity solutions.</p>
+            </div>
+        </div>
+    </section>
+
+    
+    <section id="portfolio" class="container">
+        <h2>Our Portfolio</h2>
+        <div class="portfolio-grid">
+            <div class="portfolio-item">
+                <img src="project1.jpg" alt="Project 1">
+                <h3>Smart Healthcare System</h3>
+                <p>Developed an intelligent healthcare system that enhances patient care and management.</p>
+            </div>
+            <div class="portfolio-item">
+                <img src="project2.jpg" alt="Project 2">
+                <h3>AI-driven E-commerce Platform</h3>
+                <p>Created an AI-powered platform to improve user experience and boost sales.</p>
+            </div>
+            <div class="portfolio-item">
+                <img src="project3.jpg" alt="Project 3">
+                <h3>Secure Cloud Infrastructure</h3>
+                <p>Implemented a secure cloud infrastructure for a leading financial institution.</p>
+            </div>
+        </div>
+    </section>
+
+    
+    <section id="contact" class="container">
+        <h2>Contact Us</h2>
+        <p>Let's work together to bring your ideas to life. Contact us today.</p>
+        <ul class="contact-info">
+            <li>Phone: +91 8208937014</li>
+            <li>Email: <a href="mailto:info@avinashtech.com">info@avinashtech.com</a></li>
+            <li>Address: 789 Tech Park, Innovation Hub, IN</li>
+        </ul>
+    </section>
+
+    
+    <footer>
+        <div class="container">
+            <p>© 2024 AvinashTech Innovations. All rights reserved.</p>
+            <div class="social-links">
+                <a href="#">Facebook</a> | 
+                <a href="#">Twitter</a> | 
+                <a href="#">LinkedIn</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
